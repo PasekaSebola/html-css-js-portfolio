@@ -1,2 +1,2 @@
 #
-[link to portfolio](t.ly/h1dek)
+[link to portfolio](https://luminous-chebakia-1fdfef.netlify.app/)
